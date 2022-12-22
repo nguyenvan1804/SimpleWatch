@@ -8,7 +8,7 @@
                 <div class="content">
                     <h5>NEW ARRAIVALS</h5>
                     <h1><span>Best Price</span> This Year</h1>
-                    <p>Shoomatic offers your very comfortable time<br>on walking and exercises.</p>
+                    <p>Welcome to <span style="font-size: 30px;">Simple Watch</span> Shop<br>We will wholeheartedly serve you the best watches.</p>
                 </div>
                 <button onclick="window.location.href='shop.php'">Shop now</button>
             </div>
